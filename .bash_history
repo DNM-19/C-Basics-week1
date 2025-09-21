@@ -135,3 +135,12 @@ git add .
 git add remote
 git add day1.c .
 git commit -m "day1.c2 .
+git add day1.c .
+git commit -m "day1.c"
+git config --global user.email "mulyashidennis@gmail.com"
+git config --global user.name "DNM-19"
+git commit -m "day1.c"
+git status
+git push origin master
+git push origin masterhttps://github.com/DNM-19/C-Basics-week1.git
+nano day1.c
