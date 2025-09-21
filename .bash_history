@@ -144,3 +144,8 @@ git status
 git push origin master
 git push origin masterhttps://github.com/DNM-19/C-Basics-week1.git
 nano day1.c
+git add
+git add .
+git commit -m "my first c program"
+git push
+git clone https://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github.com/DNM-19/C-Basics-week1.git
