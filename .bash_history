@@ -149,3 +149,8 @@ git add .
 git commit -m "my first c program"
 git push
 git clone https://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github.com/DNM-19/C-Basics-week1.git
+git add .
+git commit -m "my first c project"
+git remote add origin https://github.com/DNM-19/C-Basics-week1.git
+git branch -M master
+git push -u origin master
