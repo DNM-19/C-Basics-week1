@@ -1,7 +1,7 @@
 #include<stdio.h>
 int mai(){
-char name[50];
-int age;
+char name[5];
+int age,i;
 printf("enter name");
 scanf("%49s", &name);
 printf("enter age");

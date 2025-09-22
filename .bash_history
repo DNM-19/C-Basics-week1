@@ -154,3 +154,101 @@ git commit -m "my first c project"
 git remote add origin https://github.com/DNM-19/C-Basics-week1.git
 git branch -M master
 git push -u origin master
+git add .
+git commit -m "my first c program"
+git remote add origin https://github.com/DNM-19/C-Basics-week1.git
+git push
+git push --set-upstream origin master
+nano day2.c
+gcc day2.c -o day2
+gcc -version
+gcc --version
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc##
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+pacman -S mingw-w64-ucrt-x86_64-gcc
+gcc -version
+gcc --version
+pacman -Syu
+pacman -Syu
+pacman -Syu
+pacman -Syu
+gcc -version
+pacman -Syu
+pacman -S git
+git --version
+gcc --version
+pacman -S gcc
+gcc --version
+gcc day2.c -o day2
+nano day2.c
+gcc day2.c -o day2
+./day2
+nano day2.c
+./day2
+nano day2.c
+./day2
+nano day2.c
+./day2
+nano day2.c
+./day2
+nano day2.c
+./day2
+nano day2.c
+./day2
+nano day2.c
+nano day2.c
+./day2
+nano day2.c
+./day2
+nano day2.c
+./day2
+5
+
+nano day2.c
+./day2
+clear day2.c
+CNANO DAY2.C
+nano day2.c
+gcc day2.c -o day2
+nano day2.c
+gcc day2.c -o day2
+nano day2.c
+gcc day2.c -o day2
+./day2
+1
+nano day2.c
+gcc day2.c -o day2
+./day2
+./day2
+nano day2.c
+gcc day2.c -o day2
+./day2
+12
+nano day2.c
+gcc day2.c -o day2
+./day2
+nano day2.c
+gcc day2.c -o day2
+./day2
+nano day1.c
+gcc day2.c -o day2
+./day2
+nano day1.c
+gcc day1.c -o day1
+nano day1.c
+gcc day1.c -o day1
+./day2
+nano day1.c
+gcc day1.c -o day1
+./day1
+nano day2.c
+nano day2.C
+gcc day2.c -o day2
+./day2

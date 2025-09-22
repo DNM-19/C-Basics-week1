@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main(){
+float length, width, Area;
+printf("enter length: ");
+scanf("%f", &length);
+printf("enter width: ");
+scanf("%f", &width);
+Area = length * width;
+printf("Area of a rectangle: %.2f\n", Area);
+
+float radius, height, volume;
+printf("enter radius: ");
+scanf("%f", &radius);
+Area = 3.14*radius;
+printf("Area of a circle: %.2f\n", Area\n);
+
+printf("enter radius: ");
+scanf("%f", &radius);
+printf("enter height: ");
+scanf("%f", &height);
+volume = radius * height;
+printf("volume of a cylinder: %.2f\n", volume);
+return 0;
+}
