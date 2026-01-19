@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main()
-{
+
+int main(){
     char name[30];
     int age;
     char hobby[30];
@@ -11,5 +11,5 @@ int main()
     printf("What's your favourite hobby: ");
     scanf("%s", hobby);
     printf("Hello %s, You are %d years old your favourite hobby is %s.\n", name, age, hobby);
-    return 0;
+return 0;
 }
